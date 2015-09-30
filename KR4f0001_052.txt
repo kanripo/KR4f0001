@@ -1,0 +1,14 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:40.519132
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四目録
+<pb:KR4f0001_WYG_052-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文集巻二十四目録¶
+　　頌¶
+　　　　福陵頌(幷序/)¶
+　　　　昭陵頌(幷序/)¶
+　　　　孝陵頌(幷序/)¶
+　　　　大德景福頌(并序/)¶

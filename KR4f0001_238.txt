@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:44.271224
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第三集卷二十一目録
+<pb:KR4f0001_WYG_238-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第三集巻二十一目録¶
+　　序¶
+　　　　資治通鑑綱目全書序¶
+　　　　佩文韻府序¶
+　　　　淵鑑類函序¶
+　　　　歴代賦彚序¶
+　　　　清凉山新志序¶
+<pb:KR4f0001_WYG_238-1b>¶
+　　　　四朝詩選序¶

@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:47.011291
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第四集卷二十二目録
+<pb:KR4f0001_WYG_344-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第四集巻二十二目録¶
+　　序¶
+　　　御選唐詩序¶
+　　　康熙字典序¶
+　　　月令輯要序¶
+　　　周易折中序¶
+　　　春秋傳說彚纂序¶
+<pb:KR4f0001_WYG_344-1b>¶
+　　　福建總督范承謨畫壁集序¶

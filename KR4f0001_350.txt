@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:47.174051
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第四集卷二十五目錄
+<pb:KR4f0001_WYG_350-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第四集巻二十五目錄¶
+　　雜著¶
+　　　七詢¶

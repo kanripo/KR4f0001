@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:42.041338
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第二集卷二十四目録
+<pb:KR4f0001_WYG_138-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第二集卷二十四目錄¶
+　　北征勅諭¶
+　　　　諭皇太子(十五條/)¶

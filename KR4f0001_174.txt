@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:42.768665
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第二集卷四十二目録
+<pb:KR4f0001_WYG_174-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第二集巻四十二目録¶
+　　賦¶
+　　　　恭祝¶
+　皇太后萬夀無疆賦¶
+　　　　汗血馬賦¶
+　　　　木棉賦¶
+　　　　金蓮花賦¶
+<pb:KR4f0001_WYG_174-1b>¶
+　　　　菊賦¶

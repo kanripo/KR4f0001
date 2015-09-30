@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:45.303361
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第三集卷四十二目錄
+<pb:KR4f0001_WYG_280-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第三集巻四十二目錄¶
+　　雜著¶
+　　　　古文評論(計六十六條/)¶

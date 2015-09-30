@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:40.413835
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十目録
+<pb:KR4f0001_WYG_044-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文集巻二十目録¶
+　　記¶
+　　　　鄚州水淀記¶
+　　　　乾清宫讀書記¶
+　　　　南巡筆記¶
+　　　　泉林記¶
+　　　　雪記¶
+<pb:KR4f0001_WYG_044-1b>¶
+　　　　宫中日課記¶

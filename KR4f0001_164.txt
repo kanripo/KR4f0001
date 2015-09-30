@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 聖祖仁皇帝御製文集
+#+DATE: 2015-08-25 00:27:42.580835
+#+PROPERTY: ID KR4f0001
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 第二集卷三十七目錄
+<pb:KR4f0001_WYG_164-1a>¶
+　欽定四庫全書¶
+聖祖仁皇帝御製文第二集巻三十七目錄¶
+　　雜著¶
+　　　　親征漠北紀略(下/)¶
